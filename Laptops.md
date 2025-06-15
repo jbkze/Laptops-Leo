@@ -1,3 +1,8 @@
+---
+layout: default
+title: Laptops
+---
+
 # Laptop Modelle
 
 | Modell                       | Zustand             | Preis   | CPU                   | GPU            | RAM  | SSD   | OS         | Displaygröße | Displaytechnologie | Gewicht | Tastaturbeleuchtung | Link                                                                         | Anmerkung                                                |
